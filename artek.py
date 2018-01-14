@@ -12,7 +12,7 @@ from libraryartek import takeEvent
     3)Заходим в сторонее ДЦ и принимаем мероприятие
 '''
 '''Начало'''
-#TestEvent()
+TestEvent()
 Test()
 takeEvent()
 '''Конец'''
